@@ -1,19 +1,24 @@
 # Hi there, I'm Saravana Kumar B! 👋
 
-I am a passionate and driven developer focused on building clean, impactful software. I recently finished my B.Sc. in Artificial Intelligence and Machine Learning, and I am currently aiming for SDE-1 roles at top-tier product companies, with a long-term professional goal of bringing my skills to Global! 🇬🇧
+I am a driven software developer with a strong focus on backend architecture, algorithmic problem-solving, and scalable systems. Having recently finished my B.Sc. in Artificial Intelligence and Machine Learning, I am currently preparing for SDE-1 roles at top-tier product companies like Amazon, Google, Meta, and Microsoft.
 
 ### 🚀 What I'm Currently Up To
-* **Sharpening my logic:** Consistently cracking Data Structures and Algorithms using **Python**.
-* **Building interfaces:** Crafting responsive and modern frontends with **Next.js**, **Tailwind CSS**, and **React Native**.
-* **Database & Auth:** Managing backends seamlessly with tools like **Supabase**.
+* **Sharpening my logic:** Rigorously tackling Data Structures and Algorithms on platforms like LeetCode and NeetCode.
+* **Backend & Systems:** Designing robust REST APIs and exploring efficient data handling.
+* **Machine Learning:** Applying problem-solving skills to real-world datasets in Kaggle competitions.
 
-### 💻 Featured Projects
-* **Enterprise Fake News Detection System:** A machine learning pipeline and REST API built with Python and Scikit-learn.
-* **Department Information Management System:** A streamlined web platform built for an AIML department using Next.js and Tailwind CSS.
-* **Convetron:** A dynamic project utilizing Supabase for smooth database and authentication management.
+### 🛠️ Languages, Frameworks, and Others
+* **Languages:** Python (Primary)
+* **Frameworks & Libraries:** Scikit-learn, REST API architecture
+* **Others:** Data Structures & Algorithms, PostgreSQL / Supabase, Git/GitHub, IoT Protocols
+
+### 💻 Featured Projects & Experience
+* **Enterprise Fake News Detection System:** A machine learning pipeline and functional REST API built strictly with Python and Scikit-learn.
+* **Algorithmic Competitions:** Active participant in advanced Kaggle challenges, including PhysioNet, CAFA 6, and Stanford RNA 3D Folding.
+* **Debugging & Hackathons:** Secured second place in a recent inter-college debugging contest, showcasing rapid problem-solving skills.
 
 ### ⚡ A Bit More About Me
-* When I am not coding or participating in hackathons and debugging contests, I am usually helping out at my family's juice shop.
-* Total pop-culture fan—always keen for a chat about *Harry Potter*, *Marvel*, *DC*, or *Stranger Things*.
+* When I am not cracking coding challenges, I am usually helping out at my family's juice shop.
+* Massive pop-culture fan—always keen for a chat about *Harry Potter*, *Marvel*, *DC*, or *Stranger Things*.
 
 Let's connect and build something brilliant!

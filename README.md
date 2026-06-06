@@ -1,20 +1,20 @@
 # Hi there, I'm Saravana Kumar B! 👋
 
-I am a driven software developer with a strong focus on backend architecture, algorithmic problem-solving, and scalable systems. Having recently finished my B.Sc. in Artificial Intelligence and Machine Learning, I am currently preparing for SDE-1 roles at top-tier product companies like Amazon, Google, Meta, and Microsoft.
+I am a driven software developer with a strong focus on backend architecture, algorithmic problem-solving, and scalable systems. Having recently finished my B.Sc. in Artificial Intelligence and Machine Learning, I am currently preparing for SDE-1 roles and looking to bring my backend skills to innovative product teams and dynamic companies.
 
 ### 🚀 What I'm Currently Up To
 * **Sharpening my logic:** Rigorously tackling Data Structures and Algorithms on platforms like LeetCode and NeetCode.
 * **Backend & Systems:** Designing robust REST APIs and exploring efficient data handling.
-* **Machine Learning:** Applying problem-solving skills to real-world datasets in Kaggle competitions.
+* **Database Management:** Structuring data and managing authentication using PostgreSQL and Supabase.
 
 ### 🛠️ Languages, Frameworks, and Others
-* **Languages:** Python (Primary)
-* **Frameworks & Libraries:** Scikit-learn, REST API architecture
-* **Others:** Data Structures & Algorithms, PostgreSQL / Supabase, Git/GitHub, IoT Protocols
+* **Languages:** Python (Primary), Java, JavaScript
+* **Frameworks & Libraries:** FastAPI, Flask, REST API architecture
+* **Others:** Data Structures & Algorithms, System Design, OOPs, PostgreSQL, Git/GitHub, AWS
 
 ### 💻 Featured Projects & Experience
+* **AI Content Architect:** An exploratory project showcasing AI capabilities (Note: Generated collaboratively with an AI assistant).
 * **Enterprise Fake News Detection System:** A machine learning pipeline and functional REST API built strictly with Python and Scikit-learn.
-* **Algorithmic Competitions:** Active participant in advanced Kaggle challenges, including PhysioNet, CAFA 6, and Stanford RNA 3D Folding.
 * **Debugging & Hackathons:** Secured second place in a recent inter-college debugging contest, showcasing rapid problem-solving skills.
 
 ### ⚡ A Bit More About Me
